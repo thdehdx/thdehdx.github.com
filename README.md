@@ -1,2 +1,2 @@
-# thdehdx.github.com
+# thdehdx.github.io
 github pages
